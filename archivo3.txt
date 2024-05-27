@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HOLA
 hola 2
+=======
+linea 01
+>>>>>>> parent of 7d6ee35 (se agrego linea 02)
